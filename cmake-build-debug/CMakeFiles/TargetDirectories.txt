@@ -1,0 +1,3 @@
+/home/aviad/CLionProjects/Taki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aviad/CLionProjects/Taki/cmake-build-debug/CMakeFiles/Taki.dir
+/home/aviad/CLionProjects/Taki/cmake-build-debug/CMakeFiles/edit_cache.dir

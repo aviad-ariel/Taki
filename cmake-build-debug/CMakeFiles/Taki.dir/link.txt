@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Taki.dir/Card.cpp.o CMakeFiles/Taki.dir/Game.cpp.o CMakeFiles/Taki.dir/main.cpp.o CMakeFiles/Taki.dir/Player.cpp.o  -o Taki 
